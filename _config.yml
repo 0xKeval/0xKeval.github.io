@@ -20,7 +20,6 @@ description: >-
 twitter_username: 0xKeval
 github_username: 0xKeval
 minimal_mistakes_skin: dark
-search: true
 
 # Build settings
 markdown: kramdown
@@ -58,17 +57,29 @@ plugins:
 author:
   name: "0xKeval"
   avatar: "/assets/images/bio_photo.jpg"
-  bio: "Security Research"
+  bio: "Threat Research"
   links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/andreanaspi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/0xKeval"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/andrea-naspi/"
 
 footer:
   links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/andreanaspin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/0xKeval"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/andrea-naspi/"
 
 include:
   - .htaccess

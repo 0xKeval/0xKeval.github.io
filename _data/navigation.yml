@@ -1,9 +1,5 @@
 main:
   - title: "Malware Analysis"
     url: /categories/#malware-analysis
-  - title: "CTF Writeups"
-    url: /categories/#CTF-Writeups
-  - title: "Defence Evasion"
-    url: /categories/#Defence-Evasion
-  - title: "About"
-    url: /about/
+  - title: "Vulnerability Analysis"
+    url: /categories/#vulnerability-analysis
