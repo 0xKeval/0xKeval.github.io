@@ -1,5 +1,5 @@
 main:
   - title: "Malware Analysis"
-    url: /malware-analysis
+    url: /categories/#malware-analysis
   - title: "Vulnerability Analysis"
-    url: /vulnerability-analysis
+    url: /categories/#vulnerability-analysis
