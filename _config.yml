@@ -2,6 +2,11 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
 - jekyll-seo-tag
 - jekyll-feed
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
 - jekyll-remote-theme
+- jemoji
+- jekyll-include-cache
 title: 0xKeval's homepage
 description: Bookmark this to keep an eye on my project updates!
