@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: 0xKeval
 description: >-
-  Security research, CTF writeups, and reverse engineering
+  Malware analysis, Vulnerability analysis and Threat Intelligence investigations
   
 twitter_username: 0xKeval
 github_username: 0xKeval
