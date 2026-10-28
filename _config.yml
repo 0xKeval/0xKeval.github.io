@@ -57,7 +57,7 @@ plugins:
 author:
   name: "Andrea Naspi"
   avatar: "/assets/images/bio_photo.jpg"
-  bio: "Threat Research"
+  bio: "Threat Researcher"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
